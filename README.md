@@ -12,3 +12,7 @@ Import the following standard assets and move them to the Assets/Vendor director
 ## Description
 
 There is a Rig game object that has a script attached to determine water level. When below, the render settings switch to underwater. When above, the render settings switch back to a sky box mode. Colors and fog properties can be modified here.
+
+## Result
+
+![alt tag](https://github.com/HelrenPDM/SaltonSeaVR/blob/master/Assets/UnderWater.png)
